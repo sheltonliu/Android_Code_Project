@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="title_activity__view__dispatch">Activity_View_Dispatch</string>
+    <string name="title_activity_test_jni">ActivityTestJni</string>
+</resources>
